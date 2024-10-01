@@ -19,6 +19,8 @@ let isLoggediin = false
 //object
 
 console.log(typeof age)
+console.log(typeof "pranav")
+
 
 console.log(typeof null) // iska type object hai
 console.log(typeof undefined)  // iska type undefined hai 
